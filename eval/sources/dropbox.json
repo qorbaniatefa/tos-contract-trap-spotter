@@ -1,0 +1,12 @@
+{
+  "id": "dropbox",
+  "url": "https://www.dropbox.com/terms",
+  "language": "en",
+  "kind": "tos",
+  "retrievedAt": "2026-10-15T00:32:37.479Z",
+  "capturedUrl": "https://www.dropbox.com/terms",
+  "hash": "5569aeb70fc5b1fa5b115f1754bcdd7cc80e649074ac8ebacb81400c2cd7255e",
+  "scope": "rendered main text; linked documents excluded",
+  "effectiveDate": "See original text; dates are not inferred",
+  "characters": 25397
+}

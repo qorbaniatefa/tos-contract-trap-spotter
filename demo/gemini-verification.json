@@ -1,0 +1,17 @@
+{
+  "checkedAt": "2026-10-15T01:20:10.923Z",
+  "status": "passed",
+  "model": "gemini-3.5-flash-lite",
+  "requestsSucceeded": 1,
+  "checks": {
+    "connectivity": true,
+    "structuredJson": true,
+    "sourceQuotation": true,
+    "deterministicScore": true,
+    "mismatchedQuoteRejected": true,
+    "malformedJsonRejected": true,
+    "missingKeyHandled": true,
+    "liveAuthenticationError": true
+  },
+  "note": "This connectivity/validation smoke test is not the five-policy live evaluation. HTTP 429/5xx/abort behavior is additionally covered by unit tests."
+}

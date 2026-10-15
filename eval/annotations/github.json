@@ -1,0 +1,72 @@
+{
+  "id": "github",
+  "sourceUrl": "https://docs.github.com/en/site-policy/github-terms/github-terms-of-service",
+  "sourceHash": "54c597d1f6f8c760967e6a173a1dbacd7c613dc9f30e6de810e3ca860158cf74",
+  "retrievedAt": "2026-10-15T00:32:38.597Z",
+  "language": "en",
+  "scope": "Selected original paragraphs, not the entire policy or linked documents",
+  "annotatedBy": "Assistant source review; human legal review not performed",
+  "frozenAt": "2026-10-15T00:58:16.324Z",
+  "text": "Payment Based on Plan For monthly or yearly payment plans, the Service is billed in advance on a monthly or yearly basis respectively and is non-refundable. There will be no refunds or credits for partial months of service, downgrade refunds, or refunds for months unused with an open Account; however, the service will remain active for the length of the paid billing period. In order to treat everyone equally, no exceptions will be made.\n\nInvoicing For invoiced Users, User agrees to pay the fees in full, up front without deduction or setoff of any kind, in U.S. Dollars. User must pay the fees within thirty (30) days of the GitHub invoice date. Amounts payable under this Agreement are non-refundable, except as otherwise provided in this Agreement. If User fails to pay any fees on time, GitHub reserves the right, in addition to taking any other action at law or equity, to (i) charge interest on past due amounts at 1.0% per month or the highest interest rate allowed by law, whichever is less, and to charge all expenses of recovery, and (ii) terminate the applicable order form. User is solely responsible for all taxes, fees, duties and governmental assessments (except for taxes based on GitHub's net income) that are imposed or become due in connection with this Agreement.\n\nWe reserve the right, at our sole discretion, to amend these Terms of Service at any time and will update these Terms of Service in the event of any such amendments. We will notify our Users of material changes to this Agreement, such as price increases, at least 30 days prior to the change taking effect by posting a notice on our Website or sending email to the primary email address specified in your GitHub account. Customer's continued use of the Service after those 30 days constitutes agreement to those revisions of this Agreement. For any other modifications, your continued use of the Website constitutes agreement to our revisions of these Terms of Service. You can view all changes to these Terms in our Site Policy repository.\n\n2. Upgrades, Downgrades, and Changes\nWe will immediately bill you when you upgrade from the free plan to any paying plan.\nIf you change from a monthly billing plan to a yearly billing plan, GitHub will bill you for a full year at the next monthly billing date.\nIf you upgrade to a higher level of service, we will bill you for the upgraded plan immediately.\nYou may change your level of service at any time by choosing a plan option or going into your Billing settings. If you choose to downgrade your Account, you may lose access to Content, features, or capacity of your Account. Please see our section on Cancellation for information on getting a copy of that Content.\n3. Billing Schedule; No Refunds",
+  "hash": "33b974ed92394a0e5dabac728c643a3bdbf8f8f8812d7f47ef9f19caf0d8ec7e",
+  "annotations": [
+    {
+      "category": "refundRestriction",
+      "label": "positive",
+      "start": 0,
+      "end": 440,
+      "quote": "Payment Based on Plan For monthly or yearly payment plans, the Service is billed in advance on a monthly or yearly basis respectively and is non-refundable. There will be no refunds or credits for partial months of service, downgrade refunds, or refunds for months unused with an open Account; however, the service will remain active for the length of the paid billing period. In order to treat everyone equally, no exceptions will be made.",
+      "note": "Prepaid service generally non-refundable; preserve partial-month conditions."
+    },
+    {
+      "category": "refundRestriction",
+      "label": "positive",
+      "start": 442,
+      "end": 1287,
+      "quote": "Invoicing For invoiced Users, User agrees to pay the fees in full, up front without deduction or setoff of any kind, in U.S. Dollars. User must pay the fees within thirty (30) days of the GitHub invoice date. Amounts payable under this Agreement are non-refundable, except as otherwise provided in this Agreement. If User fails to pay any fees on time, GitHub reserves the right, in addition to taking any other action at law or equity, to (i) charge interest on past due amounts at 1.0% per month or the highest interest rate allowed by law, whichever is less, and to charge all expenses of recovery, and (ii) terminate the applicable order form. User is solely responsible for all taxes, fees, duties and governmental assessments (except for taxes based on GitHub's net income) that are imposed or become due in connection with this Agreement.",
+      "note": "Invoice payment non-refundable with stated exceptions."
+    },
+    {
+      "category": "unilateralChange",
+      "label": "positive",
+      "start": 1289,
+      "end": 2029,
+      "quote": "We reserve the right, at our sole discretion, to amend these Terms of Service at any time and will update these Terms of Service in the event of any such amendments. We will notify our Users of material changes to this Agreement, such as price increases, at least 30 days prior to the change taking effect by posting a notice on our Website or sending email to the primary email address specified in your GitHub account. Customer's continued use of the Service after those 30 days constitutes agreement to those revisions of this Agreement. For any other modifications, your continued use of the Website constitutes agreement to our revisions of these Terms of Service. You can view all changes to these Terms in our Site Policy repository.",
+      "note": "Amendment right with 30-day notice for material changes."
+    },
+    {
+      "category": "unilateralChange",
+      "label": "negative",
+      "start": 2031,
+      "end": 2734,
+      "quote": "2. Upgrades, Downgrades, and Changes\nWe will immediately bill you when you upgrade from the free plan to any paying plan.\nIf you change from a monthly billing plan to a yearly billing plan, GitHub will bill you for a full year at the next monthly billing date.\nIf you upgrade to a higher level of service, we will bill you for the upgraded plan immediately.\nYou may change your level of service at any time by choosing a plan option or going into your Billing settings. If you choose to downgrade your Account, you may lose access to Content, features, or capacity of your Account. Please see our section on Cancellation for information on getting a copy of that Content.\n3. Billing Schedule; No Refunds",
+      "note": "User changes their own plan; not provider unilateral authority."
+    }
+  ],
+  "sourceSpans": [
+    {
+      "excerptStart": 0,
+      "excerptEnd": 440,
+      "sourceStart": 33061,
+      "sourceEnd": 33501
+    },
+    {
+      "excerptStart": 442,
+      "excerptEnd": 1287,
+      "sourceStart": 34006,
+      "sourceEnd": 34851
+    },
+    {
+      "excerptStart": 1289,
+      "excerptEnd": 2029,
+      "sourceStart": 42465,
+      "sourceEnd": 43205
+    },
+    {
+      "excerptStart": 2031,
+      "excerptEnd": 2734,
+      "sourceStart": 32356,
+      "sourceEnd": 33059
+    }
+  ]
+}

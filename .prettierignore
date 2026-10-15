@@ -1,0 +1,9 @@
+node_modules
+dist
+.cache
+src/extension/vendor
+eval/sources
+eval/annotations
+eval/results
+docs/superpowers/specs
+package-lock.json

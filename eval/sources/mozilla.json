@@ -1,0 +1,12 @@
+{
+  "id": "mozilla",
+  "url": "https://www.mozilla.org/en-US/about/legal/terms/firefox/",
+  "language": "en",
+  "kind": "tos",
+  "retrievedAt": "2026-10-15T00:48:48.584Z",
+  "capturedUrl": "https://www.mozilla.org/en-US/about/legal/terms/firefox/",
+  "hash": "faa2619be2167b5369312341377c3e7ad0a82990592d911bedb8ce4f4fa150a1",
+  "scope": "rendered main text; linked documents excluded",
+  "effectiveDate": "See original text; dates are not inferred",
+  "characters": 5579
+}

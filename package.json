@@ -1,0 +1,40 @@
+{
+  "name": "tos-contract-trap-spotter",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "setup": "tsx scripts/setup-env.ts",
+    "verify:gemini": "tsx scripts/verify-gemini.ts",
+    "audit:secrets": "tsx scripts/audit-secrets.ts",
+    "dev": "tsx scripts/dev.ts",
+    "build": "tsx scripts/build.ts",
+    "server": "tsx src/server/main.ts",
+    "typecheck": "tsc --noEmit",
+    "test:unit": "vitest run",
+    "test:e2e": "tsx scripts/e2e.ts",
+    "demo:record": "tsx scripts/e2e.ts --record",
+    "eval": "tsx eval/run.ts",
+    "lint": "eslint src scripts tests eval cypress --ignore-pattern src/extension/vendor/**",
+    "format:check": "prettier --check src scripts tests eval cypress *.json *.ts README.md --ignore-path .prettierignore",
+    "browser:install": "playwright install chromium"
+  },
+  "dependencies": {
+    "ajv": "8.20.0",
+    "dotenv": "18.0.8",
+    "fastify": "5.12.7"
+  },
+  "devDependencies": {
+    "@types/chrome": "0.3.5",
+    "@types/node": "26.6.5",
+    "cypress": "16.2.0",
+    "eslint": "10.12.0",
+    "playwright": "1.64.1",
+    "prettier": "3.9.10",
+    "tsx": "4.23.15",
+    "typescript": "6.0.3",
+    "typescript-eslint": "8.71.2",
+    "vite": "8.3.4",
+    "vitest": "5.0.4"
+  }
+}

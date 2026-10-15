@@ -1,0 +1,58 @@
+{
+  "id": "mozilla",
+  "sourceUrl": "https://www.mozilla.org/en-US/about/legal/terms/firefox/",
+  "sourceHash": "faa2619be2167b5369312341377c3e7ad0a82990592d911bedb8ce4f4fa150a1",
+  "retrievedAt": "2026-10-15T00:48:48.584Z",
+  "language": "en",
+  "scope": "Selected original paragraphs, not the entire policy or linked documents",
+  "annotatedBy": "Assistant source review; human legal review not performed",
+  "frozenAt": "2026-10-15T00:58:16.328Z",
+  "text": "Every once in a while, Mozilla may decide to update these Terms. We will post the updated Terms online. We will take your continued use of Firefox as acceptance of such changes. We will post an effective date at the top of this page to make it clear when we made our most recent update.\n\nFirefox is free and open source web browser software, built by a community of thousands from all over the world.\n\nYou give Mozilla the rights necessary to operate Firefox. This includes processing your data as we describe in the Firefox Privacy Notice.",
+  "hash": "a512f89b6c18c8d533ec12bed869fa6aa133639b568aaec8e377cce145b30665",
+  "annotations": [
+    {
+      "category": "unilateralChange",
+      "label": "positive",
+      "start": 0,
+      "end": 286,
+      "quote": "Every once in a while, Mozilla may decide to update these Terms. We will post the updated Terms online. We will take your continued use of Firefox as acceptance of such changes. We will post an effective date at the top of this page to make it clear when we made our most recent update.",
+      "note": "Updates and continued-use acceptance."
+    },
+    {
+      "category": "autoRenewal",
+      "label": "negative",
+      "start": 288,
+      "end": 400,
+      "quote": "Firefox is free and open source web browser software, built by a community of thousands from all over the world.",
+      "note": "Free software statement is not a recurring paid subscription."
+    },
+    {
+      "category": "thirdPartySharing",
+      "label": "negative",
+      "start": 402,
+      "end": 540,
+      "quote": "You give Mozilla the rights necessary to operate Firefox. This includes processing your data as we describe in the Firefox Privacy Notice.",
+      "note": "Processing referenced; no third-party sharing established by this paragraph."
+    }
+  ],
+  "sourceSpans": [
+    {
+      "excerptStart": 0,
+      "excerptEnd": 286,
+      "sourceStart": 2615,
+      "sourceEnd": 2901
+    },
+    {
+      "excerptStart": 288,
+      "excerptEnd": 400,
+      "sourceStart": 22,
+      "sourceEnd": 134
+    },
+    {
+      "excerptStart": 402,
+      "excerptEnd": 540,
+      "sourceStart": 1654,
+      "sourceEnd": 1792
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+<!doctype html>
+<html lang="tr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Madde | Sözleşme incelemesi</title>
+  </head>
+  <body>
+    <div class="workspace">
+      <aside class="sidebar">
+        <a class="brand" href="#source"
+          ><span class="brand-mark" aria-hidden="true">§</span>Madde</a
+        >
+        <p class="brand-description">Küçük yazıları<br />görünür kılın.</p>
+        <nav aria-label="İnceleme bölümleri">
+          <a href="#source">Kaynak metin</a><a href="#report">Risk raporu</a
+          ><a href="#connection">Servis bağlantısı</a>
+        </nav>
+        <div class="sidebar-note">
+          <span class="dot"></span>Kullanıcı başlatır.<br />Alıntı destekler.<br />Siz
+          karar verirsiniz.
+        </div>
+        <p class="version">ToS / Contract Trap Spotter<br />Ödev 4 · v1.0</p>
+      </aside>
+      <main id="app">
+        <header class="page-heading">
+          <div>
+            <p class="eyebrow">Sözleşme incelemesi</p>
+            <h1>Sözleşmenizde ne yazıyor?</h1>
+            <p>
+              Koşulları okuyun. Dikkat gerektiren maddeleri kaynağından görün.
+            </p>
+          </div>
+          <span id="state-badge" class="badge">Önizleme</span>
+        </header>
+        <div id="fixture-notice" class="notice" hidden>
+          Kontrollü test yanıtı kullanılıyor. Bu sonuç canlı LLM değerlendirmesi
+          değildir.
+        </div>
+        <div class="review-layout">
+          <div class="document-column">
+            <section
+              class="document"
+              id="source"
+              aria-labelledby="source-heading"
+            >
+              <div class="section-heading">
+                <h2 id="source-heading">Kaynak metin</h2>
+                <span id="source-length" class="muted"></span>
+              </div>
+              <h3 id="source-title">Metin yükleniyor…</h3>
+              <p id="source-url" class="source-url"></p>
+              <pre
+                id="preview"
+                tabindex="0"
+                aria-label="Analiz edilecek özgün metin"
+              ></pre>
+              <div class="document-meta">
+                <span id="capture-scope"></span><span id="capture-time"></span>
+              </div>
+            </section>
+            <section
+              class="report-section"
+              id="report"
+              aria-labelledby="report-heading"
+            >
+              <div class="section-heading">
+                <h2 id="report-heading">Risk raporu</h2>
+                <span id="findings-count" class="muted">Analiz bekleniyor</span>
+              </div>
+              <p id="status" role="status" aria-live="polite">
+                Metin yükleniyor…
+              </p>
+              <div id="findings"></div>
+            </section>
+          </div>
+          <aside class="summary" aria-label="Analiz özeti">
+            <section class="score-panel">
+              <p class="score-label">Tespit edilen risk göstergesi</p>
+              <div class="score">
+                <span id="score">—</span><span class="score-out-of">/ 100</span>
+              </div>
+              <p id="score-caption">Henüz analiz edilmedi</p>
+              <div class="coverage-row">
+                <span>İşlenen metin</span><strong id="coverage">—</strong>
+              </div>
+              <progress
+                id="coverage-bar"
+                max="100"
+                value="0"
+                aria-label="İşlenen metin yüzdesi"
+              ></progress>
+              <p class="fine-print">
+                Gösterge, doğrulanan kategorilerin ağırlık toplamıdır. Hukuki
+                risk olasılığı değildir.
+              </p>
+            </section>
+            <div class="actions">
+              <button id="analyze" disabled>Analiz et</button
+              ><button id="cancel" class="secondary" hidden>
+                Analizi durdur</button
+              ><button id="clear" class="text-button">
+                Oturum verilerini sil
+              </button>
+            </div>
+            <p class="disclosure">
+              “Analiz et” seçildiğinde bu metin, yerel servis üzerinden
+              yapılandırdığınız LLM sağlayıcısına gönderilir. Sağlayıcının veri
+              saklama koşulları geçerlidir.
+            </p>
+            <details id="connection">
+              <summary>Servis bağlantısı</summary>
+              <label for="token">Eşleştirme tokenı</label
+              ><input
+                id="token"
+                type="password"
+                autocomplete="off"
+                spellcheck="false"
+                placeholder="Yerel servisteki PAIRING_TOKEN"
+              /><button id="save-token" class="secondary">
+                Bu oturum için kaydet
+              </button>
+              <p id="connection-status" role="status">
+                127.0.0.1:4318 üzerinde yerel servis gerekir.
+              </p>
+              <p class="fine-print">
+                LLM anahtarınız yalnızca servisin .env dosyasında tutulur.
+              </p>
+            </details>
+          </aside>
+        </div>
+        <section class="limitations" aria-labelledby="limits-heading">
+          <h2 id="limits-heading">Bu incelemenin sınırları</h2>
+          <p id="warnings">
+            Yalnızca yakalanan görünür HTML metni incelenir. Bağlantılı belgeler
+            ve tüm sözleşme kapsamı doğrulanmaz. Maddeler gözden kaçabilir.
+          </p>
+        </section>
+        <footer class="legal-notice">
+          <strong>Bu uygulama hukuki tavsiye vermez.</strong
+          ><span
+            >Kararınız için özgün metni inceleyin; gerektiğinde uzman görüşü
+            alın.</span
+          >
+        </footer>
+      </main>
+    </div>
+    <script type="module" src="./report.ts"></script>
+  </body>
+</html>

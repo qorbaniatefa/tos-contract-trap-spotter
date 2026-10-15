@@ -1,0 +1,17 @@
+{
+  "repository": "https://github.com/alibaba/page-agent",
+  "tag": "v1.12.4",
+  "commit": "9eb6b6646500264d9034dd466a4270cb9fc1ef1e",
+  "retrievedAt": "2026-10-15T00:11:30.827Z",
+  "hashes": {
+    "dom-tree.js": "d6d591618b003c77c79e98f9f73b0b7c82394f6db78d8a109e6737cf7eb86c88",
+    "LICENSE": "393ad563ce5dd0bbe283ec40f9f5d631817262bc9bbd5eb17ed038a9d9f44803"
+  },
+  "modifications": [
+    "Preserve original text references and whitespace-only nodes",
+    "Exclude input/editable/hidden/inert/frame subtrees",
+    "Disable arbitrary attribute collection",
+    "Adapter runs with highlighting disabled; DOM blocks define paragraph boundaries"
+  ],
+  "adaptedSha256": "7aa851948e4efa2643edb145772d9b44d6bd43ec00038402c48253d4292301f5"
+}

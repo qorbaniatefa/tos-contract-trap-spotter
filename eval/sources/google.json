@@ -1,0 +1,12 @@
+{
+  "id": "google",
+  "url": "https://policies.google.com/privacy?hl=tr",
+  "language": "tr",
+  "kind": "privacy",
+  "retrievedAt": "2026-10-15T00:32:35.184Z",
+  "capturedUrl": "https://policies.google.com/privacy?hl=tr",
+  "hash": "5993b1f22d2675a982c425590ada178d0c5fe49464c29863869d604e7b1e99b9",
+  "scope": "rendered main text; linked documents excluded",
+  "effectiveDate": "See original text; dates are not inferred",
+  "characters": 33818
+}

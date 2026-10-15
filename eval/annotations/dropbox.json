@@ -1,0 +1,100 @@
+{
+  "id": "dropbox",
+  "sourceUrl": "https://www.dropbox.com/terms",
+  "sourceHash": "5569aeb70fc5b1fa5b115f1754bcdd7cc80e649074ac8ebacb81400c2cd7255e",
+  "retrievedAt": "2026-10-15T00:32:37.479Z",
+  "language": "en",
+  "scope": "Selected original paragraphs, not the entire policy or linked documents",
+  "annotatedBy": "Assistant source review; human legal review not performed",
+  "frozenAt": "2026-10-15T00:58:16.318Z",
+  "text": "Billing. You can increase your storage space and add paid features to your account (turning your account into a “Paid Account”). We’ll automatically bill you from the date you convert to a Paid Account and on each periodic renewal until cancellation. If you’re on an annual plan, we’ll send you a notice email reminding you that your plan is about to renew within a reasonable period of time prior to the renewal date. You’re responsible for all applicable taxes, and we’ll charge tax when required to do so. Some countries have mandatory local laws regarding your cancellation rights, and this paragraph doesn’t override these laws.\n\nCancellation. You may cancel your Paid Account at any time. Refunds are only issued if required by law. For example, users living in the European Union have the right to cancel their Paid Account subscriptions and obtain a refund within 14 days of signing up for, upgrading to, or renewing a Paid Account by clicking here.\n\nChanges. We may change the fees in effect on renewal of your subscription, to reflect factors such as changes to our product offerings, changes to our business, or changes in economic conditions. We’ll give you no less than 30 days’ advance notice of these changes via a message to the email address associated with your account and you’ll have the opportunity to cancel your subscription before the new fee comes into effect.\n\nWe Both Agree to Arbitrate. You and Dropbox agree to resolve any claims relating to or arising out of these Terms or the Services through final and binding individual arbitration by a single arbitrator, except as set forth under the “Exceptions to Agreement to Arbitrate” below. This includes disputes arising out of or relating to the interpretation or application of this “Mandatory Arbitration Provisions” section, including its scope, enforceability, revocability, or validity. The arbitrator may award relief only individually and only to the extent necessary to redress your individual claim(s); the arbitrator may not award relief on behalf of others or the general public.\n\nNO CLASS OR REPRESENTATIVE ACTIONS. You may only resolve disputes with us on an individual basis, and may not bring a claim as a plaintiff or a class member in a class, consolidated, or representative action. Class arbitrations, class actions, private attorney general actions, and consolidation with other arbitrations aren’t allowed.\n\nOpt out of Agreement to Arbitrate. You can decline this agreement to arbitrate by clicking here and submitting the opt-out form within 30 days of first registering your account or agreeing to these Terms. However, if you agreed to a previous version of these Terms that allowed you to opt out of arbitration, your previous choice to opt out or not opt out remains binding.",
+  "hash": "9b09481e56b5eb301a0b55b589540c0277e222b42b13e22c9b666a60e7050fb1",
+  "annotations": [
+    {
+      "category": "autoRenewal",
+      "label": "positive",
+      "start": 0,
+      "end": 633,
+      "quote": "Billing. You can increase your storage space and add paid features to your account (turning your account into a “Paid Account”). We’ll automatically bill you from the date you convert to a Paid Account and on each periodic renewal until cancellation. If you’re on an annual plan, we’ll send you a notice email reminding you that your plan is about to renew within a reasonable period of time prior to the renewal date. You’re responsible for all applicable taxes, and we’ll charge tax when required to do so. Some countries have mandatory local laws regarding your cancellation rights, and this paragraph doesn’t override these laws.",
+      "note": "Automatic billing on periodic renewal until cancellation, with local-law qualification."
+    },
+    {
+      "category": "refundRestriction",
+      "label": "positive",
+      "start": 635,
+      "end": 957,
+      "quote": "Cancellation. You may cancel your Paid Account at any time. Refunds are only issued if required by law. For example, users living in the European Union have the right to cancel their Paid Account subscriptions and obtain a refund within 14 days of signing up for, upgrading to, or renewing a Paid Account by clicking here.",
+      "note": "Refunds only when legally required; EU example must remain visible."
+    },
+    {
+      "category": "unilateralChange",
+      "label": "positive",
+      "start": 959,
+      "end": 1385,
+      "quote": "Changes. We may change the fees in effect on renewal of your subscription, to reflect factors such as changes to our product offerings, changes to our business, or changes in economic conditions. We’ll give you no less than 30 days’ advance notice of these changes via a message to the email address associated with your account and you’ll have the opportunity to cancel your subscription before the new fee comes into effect.",
+      "note": "Fee changes on renewal with prior notice."
+    },
+    {
+      "category": "arbitration",
+      "label": "positive",
+      "start": 1387,
+      "end": 2067,
+      "quote": "We Both Agree to Arbitrate. You and Dropbox agree to resolve any claims relating to or arising out of these Terms or the Services through final and binding individual arbitration by a single arbitrator, except as set forth under the “Exceptions to Agreement to Arbitrate” below. This includes disputes arising out of or relating to the interpretation or application of this “Mandatory Arbitration Provisions” section, including its scope, enforceability, revocability, or validity. The arbitrator may award relief only individually and only to the extent necessary to redress your individual claim(s); the arbitrator may not award relief on behalf of others or the general public.",
+      "note": "Binding individual arbitration with separately described exceptions."
+    },
+    {
+      "category": "classActionWaiver",
+      "label": "positive",
+      "start": 2069,
+      "end": 2404,
+      "quote": "NO CLASS OR REPRESENTATIVE ACTIONS. You may only resolve disputes with us on an individual basis, and may not bring a claim as a plaintiff or a class member in a class, consolidated, or representative action. Class arbitrations, class actions, private attorney general actions, and consolidation with other arbitrations aren’t allowed.",
+      "note": "Class/representative dispute proceedings restricted."
+    },
+    {
+      "category": "arbitration",
+      "label": "negative",
+      "start": 2406,
+      "end": 2778,
+      "quote": "Opt out of Agreement to Arbitrate. You can decline this agreement to arbitrate by clicking here and submitting the opt-out form within 30 days of first registering your account or agreeing to these Terms. However, if you agreed to a previous version of these Terms that allowed you to opt out of arbitration, your previous choice to opt out or not opt out remains binding.",
+      "note": "This paragraph describes opt-out, not a new mandatory-arbitration claim."
+    }
+  ],
+  "sourceSpans": [
+    {
+      "excerptStart": 0,
+      "excerptEnd": 633,
+      "sourceStart": 9682,
+      "sourceEnd": 10315
+    },
+    {
+      "excerptStart": 635,
+      "excerptEnd": 957,
+      "sourceStart": 10317,
+      "sourceEnd": 10639
+    },
+    {
+      "excerptStart": 959,
+      "excerptEnd": 1385,
+      "sourceStart": 10970,
+      "sourceEnd": 11396
+    },
+    {
+      "excerptStart": 1387,
+      "excerptEnd": 2067,
+      "sourceStart": 18568,
+      "sourceEnd": 19248
+    },
+    {
+      "excerptStart": 2069,
+      "excerptEnd": 2404,
+      "sourceStart": 21892,
+      "sourceEnd": 22227
+    },
+    {
+      "excerptStart": 2406,
+      "excerptEnd": 2778,
+      "sourceStart": 19250,
+      "sourceEnd": 19622
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "spotify",
+  "url": "https://www.spotify.com/us/legal/paid-subscription-terms/",
+  "language": "en",
+  "kind": "subscription",
+  "retrievedAt": "2026-10-15T00:32:33.647Z",
+  "capturedUrl": "https://www.spotify.com/us/legal/paid-subscription-terms/",
+  "hash": "773a5dd53fb8148905fd9e7ef75dcce988766bbd548618df2716e1f51028a348",
+  "scope": "rendered main text; linked documents excluded",
+  "effectiveDate": "See original text; dates are not inferred",
+  "characters": 29747
+}

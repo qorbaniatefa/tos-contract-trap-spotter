@@ -1,0 +1,12 @@
+{
+  "id": "github",
+  "url": "https://docs.github.com/en/site-policy/github-terms/github-terms-of-service",
+  "language": "en",
+  "kind": "tos",
+  "retrievedAt": "2026-10-15T00:32:38.597Z",
+  "capturedUrl": "https://docs.github.com/en/site-policy/github-terms/github-terms-of-service",
+  "hash": "54c597d1f6f8c760967e6a173a1dbacd7c613dc9f30e6de810e3ca860158cf74",
+  "scope": "rendered main text; linked documents excluded",
+  "effectiveDate": "See original text; dates are not inferred",
+  "characters": 45855
+}

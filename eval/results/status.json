@@ -1,0 +1,6 @@
+{
+  "status": "partial",
+  "model": "gemini-3.5-flash-lite",
+  "attemptedApiRequests": 5,
+  "successfulApiRequests": 5
+}

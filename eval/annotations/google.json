@@ -1,0 +1,86 @@
+{
+  "id": "google",
+  "sourceUrl": "https://policies.google.com/privacy?hl=tr",
+  "sourceHash": "5993b1f22d2675a982c425590ada178d0c5fe49464c29863869d604e7b1e99b9",
+  "retrievedAt": "2026-10-15T00:32:35.184Z",
+  "language": "tr",
+  "scope": "Selected original paragraphs, not the entire policy or linked documents",
+  "annotatedBy": "Assistant source review; human legal review not performed",
+  "frozenAt": "2026-10-15T00:58:16.313Z",
+  "text": "Ayarlarınıza bağlı olarak size ilgi alanlarınıza ve Google hizmetlerindeki etkinliklerinize dayalı kişiselleştirilmiş reklamlar da gösterebiliriz. Örneğin, \"dağ bisikletleri\" için arama yaparsanız YouTube'da spor malzemeleriyle ilgili reklamlar görebilirsiniz. Size reklam göstermek için kullandığımız bilgileri kontrol etmek isterseniz Reklam Merkezim'deki reklam ayarlarınızı ziyaret edebilirsiniz.\n\nIrk, din, cinsel yönelim veya sağlık durumu gibi hassas kategorilere dayalı kişiselleştirilmiş reklamlar göstermeyiz.\nSize Drive, Gmail veya Fotoğraflar'daki içeriğinizen yola çıkarak kişiselleştirilmiş reklamlar göstermeyiz.\nKimlik bilgilerinizi (adınız veya e-posta adresiniz gibi) siz istemedikçe reklamverenlerle paylaşmayız. Örneğin, yakınınızdaki bir çiçekçi dükkanına ait bir reklam görür ve \"telefon etmek için dokun\" düğmesini seçerseniz aramanızı gerçekleştirir ve telefon numaranızı çiçekçi dükkanıyla paylaşabiliriz.\n\nKimlik bilgileri dışındaki bilgileri herkese açık olarak ve iş ortaklarımızla (yayıncılar, reklamverenler, geliştiriciler veya hak sahipleri gibi) paylaşabiliriz. Örneğin, hizmetlerimizin genel kullanımıyla ilgili eğilimleri göstermek amacıyla bilgileri herkese açık olarak paylaşırız. Ayrıca belirli iş ortaklarının kendi çerezlerini veya benzer teknolojileri kullanarak reklam ve ölçüm amacıyla tarayıcınızdan veya cihazınızdan bilgi toplamalarına da izin veririz.\n\nKişisel bilgileriniz gibi bazı verileri ya da fotoğraflar ve dokümanlar gibi oluşturduğunuz veya yüklediğiniz içerikleri istediğiniz zaman silebilirsiniz. Ayrıca, hesabınıza kaydedilen etkinlik bilgilerini de silebilir veya belirli bir süre sonra otomatik olarak silinmesini seçebilirsiniz. Siz kaldırana veya kaldırılmasını seçene kadar bu veriler Google Hesabınızda tutulur.\nSunucu günlüklerindeki reklam verileri gibi diğer veriler, belirli bir süre sonra otomatik olarak silinir veya anonimleştirilir.\nHizmetlerimizi ne sıklıkta kullandığınızla ilgili bilgiler gibi bazı verileri, siz Google Hesabınızı silene kadar saklarız.\nBazı veriler, meşru ticari veya yasal amaçlarla (ör. güvenlik, dolandırıcılık ve kötüye kullanımı önleme veya finansal kayıt tutma) gerektiğinde daha uzun süre saklanır.\n\nGoogle başka bir şirketle birleşme, şirket satın alma veya varlık satma faaliyetinde bulunursa, kişisel bilgilerinizin gizliliğini sağlamaya devam ederiz ve kişisel bilgiler devredilmeden ya da farklı bir gizlilik politikasına tabi olmaya başlamadan önce, bu durumdan etkilenecek kullanıcılara bildirimde bulunuruz.",
+  "hash": "99427b8a86a795667bce8f9c800fedd4ceab74076e8e3940086102e62983de4d",
+  "annotations": [
+    {
+      "category": "advertisingProfiling",
+      "label": "positive",
+      "start": 0,
+      "end": 400,
+      "quote": "Ayarlarınıza bağlı olarak size ilgi alanlarınıza ve Google hizmetlerindeki etkinliklerinize dayalı kişiselleştirilmiş reklamlar da gösterebiliriz. Örneğin, \"dağ bisikletleri\" için arama yaparsanız YouTube'da spor malzemeleriyle ilgili reklamlar görebilirsiniz. Size reklam göstermek için kullandığımız bilgileri kontrol etmek isterseniz Reklam Merkezim'deki reklam ayarlarınızı ziyaret edebilirsiniz.",
+      "note": "Personalized ads conditional on settings; preserve the controls."
+    },
+    {
+      "category": "advertisingProfiling",
+      "label": "negative",
+      "start": 402,
+      "end": 930,
+      "quote": "Irk, din, cinsel yönelim veya sağlık durumu gibi hassas kategorilere dayalı kişiselleştirilmiş reklamlar göstermeyiz.\nSize Drive, Gmail veya Fotoğraflar'daki içeriğinizen yola çıkarak kişiselleştirilmiş reklamlar göstermeyiz.\nKimlik bilgilerinizi (adınız veya e-posta adresiniz gibi) siz istemedikçe reklamverenlerle paylaşmayız. Örneğin, yakınınızdaki bir çiçekçi dükkanına ait bir reklam görür ve \"telefon etmek için dokun\" düğmesini seçerseniz aramanızı gerçekleştirir ve telefon numaranızı çiçekçi dükkanıyla paylaşabiliriz.",
+      "note": "Explicit prohibition for sensitive categories; must not reverse its meaning."
+    },
+    {
+      "category": "thirdPartySharing",
+      "label": "positive",
+      "start": 932,
+      "end": 1398,
+      "quote": "Kimlik bilgileri dışındaki bilgileri herkese açık olarak ve iş ortaklarımızla (yayıncılar, reklamverenler, geliştiriciler veya hak sahipleri gibi) paylaşabiliriz. Örneğin, hizmetlerimizin genel kullanımıyla ilgili eğilimleri göstermek amacıyla bilgileri herkese açık olarak paylaşırız. Ayrıca belirli iş ortaklarının kendi çerezlerini veya benzer teknolojileri kullanarak reklam ve ölçüm amacıyla tarayıcınızdan veya cihazınızdan bilgi toplamalarına da izin veririz.",
+      "note": "Sharing non-identifying information with partners; explanation must not claim identity is shared."
+    },
+    {
+      "category": "retention",
+      "label": "ambiguous",
+      "start": 1400,
+      "end": 2199,
+      "quote": "Kişisel bilgileriniz gibi bazı verileri ya da fotoğraflar ve dokümanlar gibi oluşturduğunuz veya yüklediğiniz içerikleri istediğiniz zaman silebilirsiniz. Ayrıca, hesabınıza kaydedilen etkinlik bilgilerini de silebilir veya belirli bir süre sonra otomatik olarak silinmesini seçebilirsiniz. Siz kaldırana veya kaldırılmasını seçene kadar bu veriler Google Hesabınızda tutulur.\nSunucu günlüklerindeki reklam verileri gibi diğer veriler, belirli bir süre sonra otomatik olarak silinir veya anonimleştirilir.\nHizmetlerimizi ne sıklıkta kullandığınızla ilgili bilgiler gibi bazı verileri, siz Google Hesabınızı silene kadar saklarız.\nBazı veriler, meşru ticari veya yasal amaçlarla (ör. güvenlik, dolandırıcılık ve kötüye kullanımı önleme veya finansal kayıt tutma) gerektiğinde daha uzun süre saklanır.",
+      "note": "Mixed retention windows and deletion conditions; inspect original context."
+    },
+    {
+      "category": "thirdPartySharing",
+      "label": "positive",
+      "start": 2201,
+      "end": 2516,
+      "quote": "Google başka bir şirketle birleşme, şirket satın alma veya varlık satma faaliyetinde bulunursa, kişisel bilgilerinizin gizliliğini sağlamaya devam ederiz ve kişisel bilgiler devredilmeden ya da farklı bir gizlilik politikasına tabi olmaya başlamadan önce, bu durumdan etkilenecek kullanıcılara bildirimde bulunuruz.",
+      "note": "Possible transfer during merger/acquisition, subject to notice."
+    }
+  ],
+  "sourceSpans": [
+    {
+      "excerptStart": 0,
+      "excerptEnd": 400,
+      "sourceStart": 11270,
+      "sourceEnd": 11670
+    },
+    {
+      "excerptStart": 402,
+      "excerptEnd": 930,
+      "sourceStart": 11672,
+      "sourceEnd": 12200
+    },
+    {
+      "excerptStart": 932,
+      "excerptEnd": 1398,
+      "sourceStart": 25522,
+      "sourceEnd": 25988
+    },
+    {
+      "excerptStart": 1400,
+      "excerptEnd": 2199,
+      "sourceStart": 28526,
+      "sourceEnd": 29325
+    },
+    {
+      "excerptStart": 2201,
+      "excerptEnd": 2516,
+      "sourceStart": 25990,
+      "sourceEnd": 26305
+    }
+  ]
+}

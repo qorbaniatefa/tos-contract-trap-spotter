@@ -1,0 +1,100 @@
+{
+  "id": "spotify",
+  "sourceUrl": "https://www.spotify.com/us/legal/paid-subscription-terms/",
+  "sourceHash": "773a5dd53fb8148905fd9e7ef75dcce988766bbd548618df2716e1f51028a348",
+  "retrievedAt": "2026-10-15T00:32:33.647Z",
+  "language": "en",
+  "scope": "Selected original paragraphs, not the entire policy or linked documents",
+  "annotatedBy": "Assistant source review; human legal review not performed",
+  "frozenAt": "2026-10-15T00:58:16.308Z",
+  "text": "CERTAIN PAID SUBSCRIPTIONS CONTINUE INDEFINITELY AND YOU WILL CONTINUE TO BE CHARGED THE RECURRING SUBSCRIPTION FEE AS ADVERTISED, AND AS AMENDED FROM TIME-TO-TIME, UNTIL YOU CANCEL YOUR ACCOUNT.\n\nWe reserve the right to modify the features and content we provide as part of our Paid Subscriptions from time to time and for any reason.\n\nH. Note; If you are a holder of a Single-user Paid Subscription account, by joining a Household Paid Subscription as a Sub-Account Holder, you acknowledge and agree that no refunds are available for changing from your then-current Paid Subscription before the end of your then-current Paid Subscription period. Upon joining, you will switch immediately to the selected Household Paid Subscription, and your access will remain uninterrupted, but any unused time you've already paid for, including any remaining free or discounted Trial days, under your then-current Paid Subscription will be forfeited.\n\nFor some Trials, we'll require you to provide your payment details to start the Trial (which will be stored and processed in accordance with our Privacy Policy). By providing such details you agree that we may automatically begin charging you for the Paid Subscription on the first day following the end of the Trial on a monthly recurring basis or other interval that we will disclose to you in advance, unless you cancel beforehand (see section 3 above with more details on how to cancel). Each Trial provides access to the Paid Subscription advertised:\n\nYou may cancel your Paid Subscription at any time by logging into your Spotify account and following the prompts on the Account page or by clicking here and following the instructions. Unless otherwise indicated, cancellation will take effect from the end of the billing period in which you cancel.\n\nPaid Subscriptions, as defined in the Spotify Terms and Conditions of Use (\"Terms of Use\"), are made available by Spotify subject to the Terms of Use, which are hereby incorporated by reference, including its Arbitration Agreement.",
+  "hash": "7d84ea069bf7d96c35d92a1232c8e2c0a7af392ae739ad5aaf2b72d22a61e23e",
+  "annotations": [
+    {
+      "category": "autoRenewal",
+      "label": "positive",
+      "start": 0,
+      "end": 195,
+      "quote": "CERTAIN PAID SUBSCRIPTIONS CONTINUE INDEFINITELY AND YOU WILL CONTINUE TO BE CHARGED THE RECURRING SUBSCRIPTION FEE AS ADVERTISED, AND AS AMENDED FROM TIME-TO-TIME, UNTIL YOU CANCEL YOUR ACCOUNT.",
+      "note": "Recurring billing until cancellation; implied renewal, not necessarily the exact trigger phrase."
+    },
+    {
+      "category": "unilateralChange",
+      "label": "positive",
+      "start": 197,
+      "end": 335,
+      "quote": "We reserve the right to modify the features and content we provide as part of our Paid Subscriptions from time to time and for any reason.",
+      "note": "Provider reserves modification authority."
+    },
+    {
+      "category": "refundRestriction",
+      "label": "positive",
+      "start": 337,
+      "end": 938,
+      "quote": "H. Note; If you are a holder of a Single-user Paid Subscription account, by joining a Household Paid Subscription as a Sub-Account Holder, you acknowledge and agree that no refunds are available for changing from your then-current Paid Subscription before the end of your then-current Paid Subscription period. Upon joining, you will switch immediately to the selected Household Paid Subscription, and your access will remain uninterrupted, but any unused time you've already paid for, including any remaining free or discounted Trial days, under your then-current Paid Subscription will be forfeited.",
+      "note": "No refund on this specific plan change; retain the scope."
+    },
+    {
+      "category": "trialConversion",
+      "label": "positive",
+      "start": 940,
+      "end": 1495,
+      "quote": "For some Trials, we'll require you to provide your payment details to start the Trial (which will be stored and processed in accordance with our Privacy Policy). By providing such details you agree that we may automatically begin charging you for the Paid Subscription on the first day following the end of the Trial on a monthly recurring basis or other interval that we will disclose to you in advance, unless you cancel beforehand (see section 3 above with more details on how to cancel). Each Trial provides access to the Paid Subscription advertised:",
+      "note": "Trial may charge automatically unless cancelled."
+    },
+    {
+      "category": "cancellationRestriction",
+      "label": "negative",
+      "start": 1497,
+      "end": 1795,
+      "quote": "You may cancel your Paid Subscription at any time by logging into your Spotify account and following the prompts on the Account page or by clicking here and following the instructions. Unless otherwise indicated, cancellation will take effect from the end of the billing period in which you cancel.",
+      "note": "Cancellation at any time; end-of-period effect alone is not an additional cancellation hurdle."
+    },
+    {
+      "category": "arbitration",
+      "label": "ambiguous",
+      "start": 1797,
+      "end": 2028,
+      "quote": "Paid Subscriptions, as defined in the Spotify Terms and Conditions of Use (\"Terms of Use\"), are made available by Spotify subject to the Terms of Use, which are hereby incorporated by reference, including its Arbitration Agreement.",
+      "note": "Incorporates a separate arbitration agreement; its terms are not captured here."
+    }
+  ],
+  "sourceSpans": [
+    {
+      "excerptStart": 0,
+      "excerptEnd": 195,
+      "sourceStart": 815,
+      "sourceEnd": 1010
+    },
+    {
+      "excerptStart": 197,
+      "excerptEnd": 335,
+      "sourceStart": 3769,
+      "sourceEnd": 3907
+    },
+    {
+      "excerptStart": 337,
+      "excerptEnd": 938,
+      "sourceStart": 7229,
+      "sourceEnd": 7830
+    },
+    {
+      "excerptStart": 940,
+      "excerptEnd": 1495,
+      "sourceStart": 23435,
+      "sourceEnd": 23990
+    },
+    {
+      "excerptStart": 1497,
+      "excerptEnd": 1795,
+      "sourceStart": 21934,
+      "sourceEnd": 22232
+    },
+    {
+      "excerptStart": 1797,
+      "excerptEnd": 2028,
+      "sourceStart": 1294,
+      "sourceEnd": 1525
+    }
+  ]
+}

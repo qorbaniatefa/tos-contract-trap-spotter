@@ -1,0 +1,386 @@
+Ana içeriğe atla
+Gizlilik ve Şartlar
+Oturum açın
+Genel Bakış
+Gizlilik Politikası
+Hizmet Şartları
+Teknolojiler
+SSS
+Giriş
+Google'ın topladığı bilgiler
+Google neden veri topluyor?
+Gizlilik kontrolleriniz
+Bilgilerinizi paylaşma
+Bilgilerinizi güvende tutma
+Bilgilerinizi dışa aktarma ve silme
+Bilgilerinizi saklama
+Düzenleyici kurumlarla işbirliği ve uyum
+Bu politika hakkında
+İlgili gizlilik uygulamaları
+Veri aktarımı çerçeveleri
+Anahtar terimler
+İş ortakları
+Güncellemeler
+GOOGLE GİZLİLİK POLİTİKASI
+
+Hizmetlerimizi kullandığınızda, bilgileriniz açısından bize güvenirsiniz. Bunun büyük bir sorumluluk olduğunu bildiğimizden bilgilerinizi korumak ve bilgilerinizin kontrolünün sizde olmasını sağlamak için büyük çaba harcarız.
+
+Bu Gizlilik Politikası ile hangi verileri neden topladığımızı ve bilgilerinizi nasıl güncelleyebileceğinizi, yönetebileceğinizi, başkalarına aktarabileceğinizi ve silebileceğinizi anlamanıza yardımcı olmayı amaçlıyoruz.
+
+Gizlilik Kontrolü
+
+Gizlilik ayarlarınızı değiştirmek mi istiyorsunuz?
+
+Gizlilik Kontrolü'nü gerçekleştir
+
+Geçerlilik 1 Ekim 2026 | Arşivlenmiş sürümler | PDF sürümünü indir
+
+Her gün milyonlarca insanın dünyayı yeni şekillerde keşfetmesine ve etkileşimde bulunmasına yardımcı olacak çeşitli hizmetler geliştiriyoruz. İşte hizmetlerimizden bazıları:
+
+Arama, YouTube ve Google Home gibi Google uygulamaları, siteleri ve cihazları
+Chrome tarayıcı ve Android işletim sistemi gibi platformlar
+Reklamlar, analizler ve yerleştirilmiş Google Haritalar gibi üçüncü taraf uygulamalara ve sitelere entegre edilen ürünler
+
+Gizliliğinizi yönetmek için hizmetlerimizi çeşitli şekillerde kullanabilirsiniz. Örneğin, e-postalar ve fotoğraflar gibi içerikler oluşturmak ve yönetmek ya da daha alakalı arama sonuçları görmek için Google Hesabı'na kaydolabilirsiniz. Oturumunuz kapalıyken veya hiç hesap oluşturmadan da Google'da arama yapma veya YouTube videoları izleme gibi birçok Google hizmetini kullanabilirsiniz. Ayrıca, web'de gezinirken Chrome'daki Gizli mod gibi gizli bir mod kullanmayı da seçebilirsiniz. Bu mod, web'de gezinme işlemlerinizi cihazınızı kullanan diğer kişilerden gizli tutmaya yardımcı olur. Hizmetlerimiz genelinde geçmiş ve kişiselleştirme kontrolleri gibi gizlilik ayarlarınızı düzenleyebilirsiniz. Böylece, bazı veri türlerini Google Hesabınıza kaydedip kaydetmeyeceğimiz ve bu verileri nasıl kullanacağımız konusunda seçim yapabilirsiniz.
+
+Konuları mümkün olduğunca net bir şekilde açıklamak için anahtar terimler ile ilgili örnekler, açıklayıcı videolar ve tanımlar ekledik. Bu Gizlilik Politikası hakkında sorularınız varsa bizimle iletişime geçebilirsiniz.
+
+GOOGLE'IN TOPLADIĞI BİLGİLER
+Hizmetlerimiz kullanılırken ne tür bilgiler topladığımızı anlamanızı istiyoruz
+
+Kullandığınız dil gibi temel konulardan, en fazla işinize yarayacak reklamlar, internette sizin için en önemli kişiler veya hangi YouTube videolarını beğenebileceğiniz gibi karmaşık konulara kadar her tür bilgiyi, tüm kullanıcılarımıza daha iyi hizmetler sunmak amacıyla toplarız. Google'ın topladığı bilgiler ve bu bilgilerin nasıl kullanıldığı, hizmetlerimizi kullanma ve gizlilik kontrollerinizi yönetme biçiminize bağlıdır.
+
+Google ayrıca hesabınızla ilişkilendirilmemiş verileri de toplar ve kullanır. Örneğin, bir Google Hesabı'nda oturum açmadığınızda, kullandığınız tarayıcıya, uygulamaya veya cihaza bağlı benzersiz tanımlayıcılar ile topladığımız bilgileri depolarız. Bu şekilde, farklı tarama oturumlarında kullandığınız dilin yanı sıra cihazlardaki etkinliğinize bağlı olarak size daha alakalı arama sonuçları ya da reklamlar gösterilip gösterilmeyeceği gibi tercihlerinizi koruyabiliriz.
+
+Oturum açtığınızda da bilgi toplarız. Google Hesabınızda depoladığımız bu bilgileri kişisel bilgiler olarak değerlendiririz.
+
+Oluşturduğunuz veya bize sunduğunuz şeyler
+
+Google Hesabı oluştururken bize adınız ve şifreniz gibi kişisel bilgiler sağlarsınız. Ayrıca hesabınıza telefon numarası veya ödeme bilgileri de ekleyebilirsiniz. Bir Google Hesabı'nda oturum açmasanız bile bize bilgi sağlamayı seçebilirsiniz (hizmetlerimizle ilgili güncellemeler almak için e-posta adresinizi vermeniz gibi).
+
+Hizmetlerimizi kullanırken oluşturduğunuz, yüklediğiniz veya başkalarından aldığınız içeriği de toplarız. Buna, yazdığınız ve aldığınız e-postalar, kaydettiğiniz fotoğraf ve videolar, oluşturduğunuz dokümanlar ile e-tablolar ve YouTube videolarına yaptığınız yorumlar dahildir.
+
+Hizmetlerimiz kullanılırken topladığımız bilgiler
+Uygulamalarınız, tarayıcılarınız ve cihazlarınız
+
+Google hizmetlerine erişirken kullandığınız cihazlar, tarayıcılar ve uygulamalar hakkında bilgi toplarız. Bu bilgiler, otomatik ürün güncellemeleri ve piliniz azaldığında ekranınızın karartılması gibi özellikler sunmamıza yardımcı olur.
+
+Topladığımız bilgiler arasında benzersiz tanımlayıcılar, tarayıcı türü ve ayarları, cihaz türü ve ayarları, işletim sistemi, operatör adı ve telefon numarası da dahil olmak üzere mobil ağ bilgileri ve uygulama sürüm numarası yer alır. Uygulamalarınızın, tarayıcılarınızın ve cihazlarınızın hizmetlerimizle etkileşimi hakkında da bilgi toplarız. IP adresi, kilitlenme raporları, sistem etkinliği ve isteğinizin tarihi, zamanı ile yönlendiren URL'si bu kapsamda toplanan bilgilerden bazılarıdır.
+
+Bu bilgileri cihazınızdaki bir Google hizmeti sunucularımızla iletişim kurduğunda (örneğin, Play Store'dan uygulama yüklediğinizde veya bir hizmet otomatik güncelleme olup olmadığını kontrol ettiğinde) toplarız. Google uygulamalarının yüklü olduğu bir Android cihaz kullanıyorsanız cihazınız düzenli olarak Google sunucularıyla iletişim kurarak hem cihazınız hem de hizmetlerimizle bağlantı konusunda bilgi verir. Cihazınızın türü ve operatör adı, kilitlenme raporları, yüklediğiniz uygulamalar, ayrıca cihaz ayarlarınıza bağlı olarak Android cihazınızı nasıl kullandığınızla ilgili diğer bilgiler buna dahildir.
+
+Etkinliğiniz
+
+Hizmetlerimizdeki etkinliğiniz hakkında bilgi toplarız. Bu bilgileri, hoşunuza gidebilecek bir YouTube videosu önerme gibi işlemler için kullanırız. Topladığımız etkinlik bilgileri arasında şunlar yer alabilir:
+
+Aradığınız terimler
+İzlediğiniz videolar
+İçerik ile reklam görüntülemeleri ve etkileşimleri
+Etkileşimlerinizden elde edilen medya içerikleri (ör. resimler, dosyalar, ses ve video)
+Satın alma etkinliği
+İletişim kurduğunuz veya içerik paylaştığınız kişiler
+Hizmetlerimizi kullanan üçüncü taraf sitelerdeki ve uygulamalardaki etkinlikler
+Google Hesabınızla senkronize ettiğiniz Chrome tarama geçmişi
+
+Hizmetlerimizi arama yapmak ve almak ya da mesaj göndermek ve almak için kullanıyorsanız telefon numaranız, arayan tarafın numarası, aramayı alan tarafın numarası, yönlendirilen numaralar, gönderen ve alıcı e-posta adresi, arama ve mesajların tarihleri ile saatleri, aramaların süreleri, yönlendirme bilgileri, aramalar ile mesajların türleri ve miktarları gibi arama ve mesaj günlüğü bilgilerini toplayabiliriz.
+
+Geçmişinizde kayıtlı etkinlik bilgilerini bulmak ve yönetmek için Google Hesabınızı ziyaret edebilirsiniz.
+
+Google Hesabı'na gidin
+
+Konum bilgileriniz
+
+Hizmetlerimizi kullandığınızda konum bilgisi toplarız. Bu bilgi sayesinde arabayla yol tarifi, yakınınızdakilerle ilgili arama sonuçları ve konumunuza dayalı reklamlar gibi özellikleri sunabiliriz.
+
+Google, kullanmakta olduğunuz ürünlere ve seçtiğiniz ayarlara bağlı olarak bazı hizmetleri ve ürünleri sizin açınızdan daha faydalı hale getirmek için farklı türde konum bilgileri kullanabilir. Bunlardan bazıları:
+
+GPS ve cihazınızdaki diğer sensör verileri
+IP adresi
+Yaptığınız aramalar veya ev ya da iş yeri olarak etiketlediğiniz yerler gibi Google hizmetlerindeki etkinliğiniz
+Kablosuz ağ erişim noktaları, baz istasyonları ve Bluetooth'un etkin olduğu cihazlar gibi cihazınızın yakınındaki öğelerle ilgili bilgiler
+
+Topladığımız konum verisi türleri ve bu verileri ne kadar süre sakladığımız kısmen cihaz ve hesap ayarlarınıza bağlıdır. Örneğin, cihazın ayarlar uygulamasını kullanarak Android cihazınızın konumunu açabilir veya kapatabilirsiniz. Ayrıca, oturum açtığınız cihazlarınızla gittiğiniz yerlerin size özel bir haritasını oluşturmak istiyorsanız Zaman Çizelgesi'ni açabilirsiniz. Ayarlarınıza bağlı olarak, Google hizmetlerindeki aramalarınız ve diğer etkinlikleriniz (konum bilgisi de içerebilir) Google Hesabınıza geçmiş olarak kaydedilir. Örneğin, Arama, Haritalar ve Alışveriş gibi hizmetlerdeki etkinlikler arama hizmetleri geçmişine, diğer bazı Google siteleri ve uygulamalarındaki etkinlikler ise Web ve Uygulama Etkinliği'ne kaydedilir. Konum bilgilerini nasıl kullandığımız hakkında daha fazla bilgi edinin.
+
+Bazı durumlarda Google, herkesin erişebileceği kaynaklardan da hakkınızda bilgi toplar. Örneğin, adınız yerel gazetede yer alıyorsa Google'ın arama motoru o makaleyi dizine alabilir ve adınızı arayan diğer kullanıcılara gösterebilir. Bize Google'ın hizmetlerinde görüntülenmek üzere işletme bilgileri sağlayan dizin hizmetleri, işletme hizmetlerimizin potansiyel müşterileri hakkında bilgi sağlayan pazarlama iş ortakları ve kötüye kullanıma karşı bilgi sağlayan güvenlik iş ortakları gibi güvenilir iş ortaklarından da sizinle ilgili bilgi toplayabiliriz. Ayrıca, kendileri adına reklam ve araştırma hizmetleri sağlamak için iş ortaklarımızdan da bilgi alıyoruz.
+
+Bilgi toplamak ve depolamak için çeşitli teknolojilerden yararlanırız. Bu bağlamda çerezler ve piksel etiketlerinin yanı sıra tarayıcı web depolaması, uygulama veri önbellekleri, veri tabanları, sunucu günlükleri gibi yerel depolama teknolojilerini kullanırız.
+
+GOOGLE NEDEN VERİ TOPLUYOR?
+Verileri, daha iyi hizmetler geliştirmek için kullanırız
+
+Tüm hizmetlerimizden topladığımız bilgileri aşağıdaki amaçlar doğrultusunda kullanırız:
+
+Hizmetlerimizi sağlama
+
+Bilgilerinizi, aradığınız terimleri sonuç göstermek amacıyla işlemek veya kişileriniz arasından alıcılar önererek içerik paylaşmanıza yardımcı olmak gibi hizmetlerimizi sunmak için kullanırız.
+
+Hizmetlerimizi sürdürme ve iyileştirme
+
+Bilgilerinizi hizmetlerimizin amaçlandığı şekilde çalıştığından emin olmak için de kullanırız. Hizmet kesintilerinin takip edilmesi veya bize bildirdiğiniz sorunların giderilmesi bu duruma örnek gösterilebilir. Ayrıca bilgilerinizi hizmetlerimizde iyileştirmeler yapmak için de kullanırız. Örneğin, hangi arama terimlerinin en çok yanlış yazıldığını anlamak, hizmetlerimizde kullanılan yazım denetimi özelliklerini iyileştirmemize yardımcı olur.
+
+Yeni hizmetler geliştirme
+
+Mevcut hizmetlerden topladığımız bilgileri yeni hizmetler geliştirmek için kullanırız. Örneğin, kullanıcıların fotoğraflarını Google'ın ilk fotoğraf uygulaması olan Picasa'da nasıl düzenlediklerini anlamak Google Fotoğraflar'ı tasarlayıp kullanıma sunmamıza yardımcı oldu.
+
+İçerik ve reklamlar dahil olmak üzere kişiselleştirilmiş hizmetler sağlama
+
+Topladığımız bilgileri, size sunduğumuz hizmetleri özelleştirmek (ör. içerik ve arama sonuçları gibi özelleştirilmiş ve kişiselleştirilmiş deneyimler ile öneriler sunmak) için kullanırız. Örneğin, Güvenlik Kontrolü özelliği, Google ürünlerini kullanma şeklinize göre uyarlanmış güvenlik ipuçları sağlar. Ayrıca Google Play, mevcut ayarlarınıza bağlı olarak hoşunuza gidebilecek yeni uygulamalar önermek için daha önce yüklediğiniz uygulamalar ve YouTube'da izlediğiniz videolar gibi bilgileri kullanabilir.
+
+Ayarlarınıza bağlı olarak size ilgi alanlarınıza ve Google hizmetlerindeki etkinliklerinize dayalı kişiselleştirilmiş reklamlar da gösterebiliriz. Örneğin, "dağ bisikletleri" için arama yaparsanız YouTube'da spor malzemeleriyle ilgili reklamlar görebilirsiniz. Size reklam göstermek için kullandığımız bilgileri kontrol etmek isterseniz Reklam Merkezim'deki reklam ayarlarınızı ziyaret edebilirsiniz.
+
+Irk, din, cinsel yönelim veya sağlık durumu gibi hassas kategorilere dayalı kişiselleştirilmiş reklamlar göstermeyiz.
+Size Drive, Gmail veya Fotoğraflar'daki içeriğinizen yola çıkarak kişiselleştirilmiş reklamlar göstermeyiz.
+Kimlik bilgilerinizi (adınız veya e-posta adresiniz gibi) siz istemedikçe reklamverenlerle paylaşmayız. Örneğin, yakınınızdaki bir çiçekçi dükkanına ait bir reklam görür ve "telefon etmek için dokun" düğmesini seçerseniz aramanızı gerçekleştirir ve telefon numaranızı çiçekçi dükkanıyla paylaşabiliriz.
+
+Reklam Merkezim'e git
+
+Performans ölçme
+
+Verileri hizmetlerimizin nasıl kullanıldığını anlamak amacıyla analiz ve ölçüm yapmak için kullanırız. Örneğin, ürün tasarımını optimize etme gibi işlemler yapmak için sitelerimize gerçekleştirdiğiniz ziyaretlerle ilgili verileri analiz ederiz. Ayrıca, reklamverenlerin reklam kampanyalarının performansını anlamalarına yardımcı olmak için ilgili Google Arama etkinliğiniz de dahil olmak üzere etkileşimde bulunduğunuz reklamlarla ilgili verileri kullanırız. Bunu yapmak için reklam ve analiz hizmetleri de dahil olmak üzere çeşitli araçlar kullanırız. Google'ın reklam veya analiz hizmetlerinden yararlanan siteleri ziyaret ettiğinizde ya da uygulamaları kullandığınızda bu hizmetler, söz konusu site veya uygulamadaki etkinlik bilgilerinizi, hizmetlerimizi kullanan diğer site veya uygulamalardaki etkinliklerle ilişkilendirebilir.
+
+Sizinle iletişim kurma
+
+E-posta adresiniz gibi topladığımız bilgileri sizinle doğrudan iletişim kurmak için kullanırız. Örneğin, olağandışı bir konumdan Google Hesabınızda oturum açma girişiminde bulunulması gibi şüpheli bir etkinlik algıladığımızda size bildirim gönderebiliriz. Ya da hizmetlerimizde yapılacak değişiklikler veya iyileştirmeler konusunda size bilgi verebiliriz. Ayrıca Google ile iletişim kurduğunuzda, karşılaşabileceğiniz sorunları çözmemize yardımcı olması amacıyla isteğinizin kaydını tutarız.
+
+Google'ı, kullanıcılarımızı ve kamuyu koruma
+
+Bilgileri hizmetlerimizin güvenliğini ve güvenilirliğini iyileştirmek için kullanırız. Google'a, kullanıcılarımıza veya kamuya zarar verebilecek teknik sorunlar, güvenlik riskleri, kötüye kullanım ve dolandırıcılığın algılanması, önlenmesi ve bunlara yanıt verilmesi bu kapsamda yer alır.
+
+Bilgilerinizi bu amaçlar doğrultusunda işlemek için farklı teknolojiler kullanırız. Size uygun hale getirilmiş arama sonuçları, kişiselleştirilmiş reklamlar veya hizmetlerimizi kullanma biçiminize göre şekillendirilen diğer özellikler vb. sağlamak için içeriğinizi analiz eden otomatik sistemlerden yararlanırız. Ayrıca spam, kötü amaçlı yazılım ve yasa dışı içerik gibi kötüye kullanım öğelerini algılamamıza yardımcı olması için de içeriğinizi analiz ederiz. Verilerdeki kalıpları tanımak için algoritmalar kullanırız. Örneğin, Google Çeviri, çevirmesini istediğiniz ifadelerdeki ortak dil kalıplarını algılayarak kullanıcıların farklı dillerde iletişim kurmalarına yardımcı olur.
+
+Topladığımız bilgileri yukarıda açıklanan amaçlar doğrultusunda hizmetlerimiz genelinde ve cihazlarınızda kullanabiliriz. Örneğin, mevcut ayarlarınıza bağlı olarak, YouTube'da gitar çalanların videolarını izliyorsanız reklam ürünlerimizi kullanan bir sitede gitar dersleriyle ilgili reklam görebilirsiniz. Hesap ayarlarınıza bağlı olarak, diğer site ve uygulamalardaki etkinliğiniz, Google'ın hizmetlerini ve Google tarafından yayınlanan reklamları iyileştirmek için kişisel bilgilerinizle ilişkilendirilebilir.
+
+Başka kullanıcılar e-posta adresinizi veya kimlik bilgilerinizi zaten biliyorlarsa, Google Hesabınızda herkese açık olarak görünebilen adınız ve fotoğrafınız gibi bilgileri kendilerine gösterebiliriz. Bu, kullanıcıların sizden gelen bir e-postayı tanıması gibi konularda yardımcı olabilir.
+
+Bilgilerinizi bu Gizlilik Politikası'nda yer almayan bir amaç doğrultusunda kullanmadan önce sizden izin isteriz.
+
+GİZLİLİK KONTROLLERİNİZ
+Topladığımız bilgiler ve bu bilgilerin nasıl kullanıldığıyla ilgili seçenekleriniz mevcuttur
+
+Bu bölümde, hizmetlerimiz genelinde gizliliğinizin yönetimiyle ilgili önemli kontroller açıklanmaktadır. Ayrıca, gizlilikle ilgili önemli ayarları inceleme ve ayarlama fırsatı sunan Gizlilik Kontrolü'nü de ziyaret edebilirsiniz. Bu araçlara ek olarak, ürünlerimizde belirli gizlilik ayarları da sunarız. Daha fazla bilgiyi Ürün Gizlilik Rehberimizde bulabilirsiniz.
+
+Gizlilik Kontrolü'ne gidin
+
+Bilgilerinizi yönetme, inceleme ve güncelleme
+
+Oturum açtığınızda, kullandığınız hizmetleri ziyaret ederek bilgileri istediğiniz zaman inceleyebilir ve güncelleyebilirsiniz. Örneğin, hem Fotoğraflar hem de Drive, Google'da kaydettiğiniz belirli içerik türlerini yönetmenize yardımcı olmak amacıyla tasarlanmıştır.
+
+Google Hesabınızda kayıtlı bilgileri incelemeniz ve kontrol etmeniz için de bir yer oluşturduk. Google Hesabınızda şunlar yer alır:
+
+Gizlilik denetimleri
+Kişiselleştirme ve Etkinlik Kontrolleri
+
+Birçok hizmetimizde geçmiş ve kişiselleştirme kontrollerini düzenleyebilirsiniz. Böylece, bazı veri türlerini Google Hesabınıza kaydedip kaydetmeyeceğimiz ve deneyiminizi kişiselleştirmek için nasıl kullanacağımız konusunda seçim yapabilirsiniz. Örneğin, YouTube Geçmişiniz açıksa izlediğiniz videolar ve yaptığınız aramalar hesabınıza kaydedildiği için daha iyi öneriler alabilir ve kaldığınız yerden devam edebilirsiniz. Arama, Haritalar ve Alışveriş gibi hizmetlerdeki etkinlikleri arama hizmetleri geçmişine kaydettiğinizde AI Modu etkileşimine kaldığınız yerden devam etme gibi işlemler yapabilir veya geçmiş aramaları otomatik tamamlama önerisi olarak görebilirsiniz. Arama hizmetlerinde Kişiselleştirilmiş Öneriler açıkken bu hizmetler, arama hizmetleri geçmişi de dahil olmak üzere Google Hesabınızdaki bilgilere dayalı olarak sizin için kişiselleştirilmiş sonuçlar, özel feed'ler ve yapay zeka yanıtları sunabilir. Web ve Uygulama Etkinliğiniz açıksa diğer bazı Google hizmetlerindeki etkinliğiniz hesabınıza kaydedilir. Böylece daha kişiselleştirilmiş deneyimlerden faydalanabilirsiniz. Ayrıca Web ve Uygulama Etkinliği'nde yer alan bir alt ayar sayesinde, Google hizmetlerini kullanan diğer siteler, uygulamalar ve cihazlardaki etkinliğinizle ilgili bazı bilgilerin, Google Hesabınızda Web ve Uygulama Etkinliği'ne kaydedilip kaydedilmeyeceğini ve Google hizmetlerini daha iyi hale getirmek için kullanılıp kullanılmayacağını kontrol edebilirsiniz.
+
+Etkinliğim ve Kişiselleştirme Ayarları'na gidin.
+
+Reklam ayarları
+
+Hem Google'da hem de reklam göstermek için Google ile iş ortaklığı yapan site ve uygulamalarda size gösterilen reklamlarla ilgili tercihlerinizi yönetin. İlgi alanlarınızı değiştirebilir, kişisel bilgilerinizin size daha alakalı reklamlar göstermek amacıyla kullanılıp kullanılmayacağını seçebilir ve belirli reklamcılık hizmetlerini açabilir ya da kapatabilirsiniz.
+
+Reklam Merkezim'e git
+
+Hakkınızda
+
+Google Hesabınızdaki kişisel bilgileri yönetin ve bu bilgileri Google hizmetlerinde kimlerin görebileceğini kontrol edin.
+
+Hakkınızda'ya gidin
+
+Paylaşılan öneriler
+
+Adınızın ve fotoğrafınızın, yorumlar ve öneriler gibi etkinlikleriniz doğrultusunda çıkan reklamların yanında görünüp görünmeyeceğini seçebilirsiniz.
+
+Paylaşılan Öneriler'e gidin
+
+Google hizmetlerini kullanan siteler ve uygulamalar
+
+Google Analytics gibi Google hizmetlerini kullanan web sitelerine ve uygulamalara ait hizmetleri ziyaret ettiğinizde veya bunlarla etkileşime girdiğinizde Google ile paylaşılacak bilgileri yönetin.
+
+Google, hizmetlerimizi kullanan sitelerdeki veya uygulamalardaki bilgileri nasıl kullanır? başlıklı makaleye gidin
+
+Bilgilerinizi inceleme ve güncelleme yöntemleri
+Etkinliğim
+
+Etkinliğim, oturum açtığınızda ve Google hizmetlerini kullandığınızda Google Hesabınıza kaydedilen verileri (yaptığınız aramalar veya Google Play ziyaretleriniz gibi) incelemenize ve kontrol etmenize olanak tanır. Tarihe ve konuya göre göz atabilir, etkinliğinizin bir kısmını veya tamamını silebilirsiniz.
+
+Etkinliğim'e gidin
+
+Google Hesap Özeti
+
+Google Hesap Özeti, belirli ürünlerle ilişkilendirilmiş bilgileri yönetmenize olanak tanır.
+
+Hesap Özeti'ne gidin
+
+Kişisel bilgileriniz
+
+Adınız, e-posta adresiniz ve telefon numaranız gibi iletişim bilgilerinizi yönetebilirsiniz.
+
+Kişisel Bilgiler'e gidin
+
+Oturumu kapattığınızda, aşağıdakiler dahil olmak üzere tarayıcınızla veya cihazınızla ilişkilendirilmiş bilgileri yönetebilirsiniz:
+
+Oturum kapalıyken arama kişiselleştirme: Arama etkinliğinizin size daha alakalı sonuçlar ve öneriler sunmak amacıyla kullanılıp kullanılmayacağını seçebilirsiniz.
+YouTube ayarları: YouTube Arama Geçmişinizi ve YouTube İzleme Geçmişinizi duraklatabilir ve silebilirsiniz.
+Reklam Ayarları: Google'da ve reklam göstermek için Google ile iş ortaklığı yapan site ve uygulamalarda size gösterilen reklamlar hakkındaki tercihlerinizi yönetebilirsiniz.
+Bilgilerinizi dışa aktarma, kaldırma ve silme
+
+Google hesabınızdaki içeriğin bir kopyasını dışa aktararak yedekleyebilir veya Google dışındaki bir hizmetle kullanabilirsiniz.
+
+Verilerinizi dışa aktarma
+
+Bilgilerinizi silmek için şunları yapabilirsiniz:
+
+Belirli Google hizmetlerinden içeriğinizi silme
+Etkinliğim'i kullanarak belirli öğeleri arama ve hesabınızdan silme
+Belirli Google ürünlerini silme (bu ürünlerle ilişkilendirilmiş bilgileriniz de dahil olmak üzere)
+Tüm Google Hesabınızı silme
+
+Bilgilerinizi silme
+
+Etkin Olmayan Hesap Yöneticisi beklenmedik bir şekilde hesabınızı kullanamamanız ihtimaline karşı başka birine Google Hesabınızın bazı bölümlerine erişim hakkı vermenize olanak tanır.
+
+Son olarak, geçerli yasalara ve politikalarımıza göre belirli Google hizmetlerinden içerik kaldırılmasını talep edebilirsiniz.
+
+Google Hesabında oturup açıp açmamanızdan bağımsız olarak Google'ın topladığı bilgileri kontrol etmenin başka yolları da vardır. Bunlardan bazıları şöyledir:
+
+Tarayıcı ayarları: Örneğin, tarayıcınızı Google, tarayıcınıza bir çerez yerleştirdiğinde bunu gösterecek şekilde yapılandırabilirsiniz. Ayrıca tarayıcınızı belirli bir alan adından veya tüm alan adlarından çerezleri engelleyecek şekilde yapılandırabilirsiniz. Ancak hizmetlerimizin dil tercihlerinizi hatırlamak gibi konularda düzgün çalışabilmeleri için çerezlerden yararlandığını unutmayın.
+Cihaz düzeyinde ayarlar: Cihazınızda, hangi bilgileri topladığımızı belirleyen kontroller olabilir. Örneğin, Android cihazınızda konum ayarlarını değiştirebilirsiniz.
+BİLGİLERİNİZİ PAYLAŞMA
+Bilgilerinizi paylaştığınızda
+
+Hizmetlerimizin çoğu, başka kullanıcılarla bilgi paylaşmanıza olanak tanır ve nasıl paylaştığınız sizin kontrolünüzdedir. Örneğin, videoları YouTube'da herkese açık olarak paylaşabilir veya videolarınızı gizli tutmayı tercih edebilirsiniz. Bilgileri herkese açık olarak paylaştığınızda içeriğinize Google Arama da dahil olmak üzere arama motorları aracılığıyla erişilebileceğini unutmayın.
+
+Oturumunuz açıkken bazı Google hizmetleriyle etkileşimde bulunduğunuzda (bir YouTube videosuna yorum yapma veya Play'de bir uygulamayı inceleme gibi) adınız ve fotoğrafınız etkinliğinizin yanında görünür. Bu bilgileri, Paylaşılan öneriler ayarınıza bağlı olarak reklamlarda da gösterebiliriz.
+
+Google bilgilerinizi paylaştığında
+
+Kişisel bilgilerinizi aşağıdaki durumlar haricinde şirketlerle, kuruluşlarla veya Google'ın dışındaki kişilerle paylaşmayız:
+
+İzin vermeniz durumunda
+
+Sizden izin almamız halinde kişisel bilgileri Google dışında paylaşırız. Örneğin, bir rezervasyon hizmeti aracılığıyla rezervasyon yaptırmak için Google Home'u kullanırsanız söz konusu restoranla adınızı veya telefon numaranızı paylaşmadan önce sizden izin alırız. Ayrıca, Google Hesabınızdan verilere erişim izni verdiğiniz üçüncü taraf uygulamalarını ve sitelerini inceleyip yönetmeniz için gerekli kontrolleri de size sağlarız. Hassas kişisel bilgilerinizi paylaşmak için sizden açıkça izin isteriz.
+
+Alan adı yöneticileriyle ilgili durumlarda
+
+Google hizmetlerini kullanan bir kuruluşta öğrenciyseniz veya çalışıyorsanız hesabınızı yöneten alan yöneticiniz ve bayilerin Google Hesabınıza erişimi olur. Bu kişiler şu işlemleri yapabilir:
+
+Hesabınızda depolanan bilgilere (e-posta adresiniz gibi) erişme ve bu bilgileri saklama
+Hesabınızla ilgili istatistikleri (kaç tane uygulama yüklediğiniz gibi) görüntüleme
+Hesabınızın şifresini değiştirme
+Hesabınıza erişiminizi askıya alma veya feshetme
+Geçerli yasaları, mevzuatı, yasal süreci veya uygulanabilir resmi talepleri karşılamak amacıyla hesap bilgilerinize erişme
+Bilgilerinizi veya gizlilik ayarlarınızı silme ya da düzenleme hakkınızı kısıtlama
+Harici olarak işlenmeleri için
+
+Gizlilik Politikamız ile diğer geçerli gizlilik ve güvenlik tedbirlerindeki talimatlara dayanarak ve bunlara uygun bir şekilde, kişisel bilgileri bizim adımıza işlemeleri için satış ortaklarımızın yanı sıra diğer güvenilir işletmelere veya kişilere veririz. Örneğin, veri merkezlerimizi işletme, ürün ve hizmetlerimizi sunma, dahili iş süreçlerimizi iyileştirme, ayrıca müşterilere ve kullanıcılara ek destek sunma konusunda servis sağlayıcılardan yardım alırız. Servis sağlayıcılar bunun dışında YouTube video içeriğini kamu güvenliği açısından inceleme ve kaydedilmiş kullanıcı sesi örneklerini analiz edip dinleyerek Google'ın ses tanıma teknolojilerini iyileştirme konularında da bize yardımcı olurlar.
+
+Yasal nedenlerle
+
+Aşağıdaki durumlarda bilgilerin açıklanmasının makul ölçüde gerekli olduğuna iyi niyetimizle inanırsak kişisel bilgileri Google dışında paylaşırız:
+
+Geçerli herhangi bir yasa, düzenleme, yasal işlem veya uygulanabilir resmi talebin gereğini yapmak. Resmi makamlardan aldığımız taleplerin sayısı ve türü ile ilgili bilgileri Şeffaflık Raporumuzda paylaşırız.
+Potansiyel ihlalleri araştırmak da dahil olmak üzere geçerli Hizmet Şartlarını uygulamak.
+Dolandırıcılığı, güvenlikle ilgili konuları ve teknik sorunları tespit etmek, önlemek veya çözmek.
+Google'ın, kullanıcılarımızın veya kamunun haklarını, mülkiyetini ya da güvenliğini korumak.
+
+Kimlik bilgileri dışındaki bilgileri herkese açık olarak ve iş ortaklarımızla (yayıncılar, reklamverenler, geliştiriciler veya hak sahipleri gibi) paylaşabiliriz. Örneğin, hizmetlerimizin genel kullanımıyla ilgili eğilimleri göstermek amacıyla bilgileri herkese açık olarak paylaşırız. Ayrıca belirli iş ortaklarının kendi çerezlerini veya benzer teknolojileri kullanarak reklam ve ölçüm amacıyla tarayıcınızdan veya cihazınızdan bilgi toplamalarına da izin veririz.
+
+Google başka bir şirketle birleşme, şirket satın alma veya varlık satma faaliyetinde bulunursa, kişisel bilgilerinizin gizliliğini sağlamaya devam ederiz ve kişisel bilgiler devredilmeden ya da farklı bir gizlilik politikasına tabi olmaya başlamadan önce, bu durumdan etkilenecek kullanıcılara bildirimde bulunuruz.
+
+BİLGİLERİNİZİ GÜVENDE TUTMA
+Bilgilerinizi korumak için hizmetlerimize güvenlik özellikleri ekleriz
+
+Tüm Google ürünlerinde, bilgilerinizi sürekli koruyan kuvvetli güvenlik özellikleri mevcuttur. Hizmetlerimizi sürdürürken elde ettiğimiz bilgiler güvenlik tehditlerini size ulaşmadan önce algılayıp otomatik olarak engellememize yardımcı olur. Bilmeniz gerektiğini düşündüğümüz riskli bir durum algılarsak size haber veririz ve daha iyi korunmanızı sağlamak için izlemeniz gereken adımlar konusunda size yardımcı oluruz.
+
+Sizi ve Google’ı, sakladığımız bilgilere yetkisiz erişimden veya bunların yetkisiz olarak değiştirilmesinden, ifşa edilmesinden veya imha edilmesinden korumak için çok çalışırız. Bu amaçla:
+
+Verilerinizi taşınırken gizli tutmak için şifreleme kullanırız
+Hesabınızı korumanıza yardımcı olmak için Güvenli Tarama, Güvenlik Kontrolü ve 2 Adımlı Doğrulama gibi bir dizi güvenlik özelliği sunarız
+Sistemlerimize yetkisiz erişimi önlemek için, fiziksel güvenlik tedbirleri dahil olmak üzere bilgi toplama, depolama ve işleme uygulamalarımızı gözden geçiririz
+Kişisel bilgilere erişimi, bu bilgileri işlemek için onlara ihtiyaç duyan Google çalışanları, alt yükleniciler ve aracılarla sınırlarız. Bu erişime sahip olan herkes, gizlilikle ilgili sözleşmeyle sağlanan çok sıkı yükümlülüklere tabi olup bu yükümlülükleri yerine getirmemeleri durumunda disiplin cezası alabilir veya anlaşmaları feshedilebilir.
+BİLGİLERİNİZİ DIŞA AKTARMA VE SİLME
+
+Bilgilerinizin bir kopyasını istediğiniz zaman dışa aktarabilir veya Google Hesabınızdan silebilirsiniz
+
+Google hesabınızdaki içeriğin bir kopyasını dışa aktararak yedekleyebilir veya Google dışındaki bir hizmetle kullanabilirsiniz.
+
+Verilerinizi dışa aktarma
+
+Bilgilerinizi silmek için şunları yapabilirsiniz:
+
+Belirli Google hizmetlerinden içeriğinizi silme
+Etkinliğim'i kullanarak belirli öğeleri arama ve hesabınızdan silme
+Belirli Google ürünlerini silme (bu ürünlerle ilişkilendirilmiş bilgileriniz de dahil olmak üzere)
+Tüm Google Hesabınızı silme
+
+Bilgilerinizi silme
+
+BİLGİLERİNİZİ SAKLAMA
+
+Topladığımız verileri ne olduklarına, nasıl kullandığımıza ve sizin ayarlarınızı nasıl yapılandırdığınıza bağlı olarak farklı zaman dilimleri boyunca saklarız:
+
+Kişisel bilgileriniz gibi bazı verileri ya da fotoğraflar ve dokümanlar gibi oluşturduğunuz veya yüklediğiniz içerikleri istediğiniz zaman silebilirsiniz. Ayrıca, hesabınıza kaydedilen etkinlik bilgilerini de silebilir veya belirli bir süre sonra otomatik olarak silinmesini seçebilirsiniz. Siz kaldırana veya kaldırılmasını seçene kadar bu veriler Google Hesabınızda tutulur.
+Sunucu günlüklerindeki reklam verileri gibi diğer veriler, belirli bir süre sonra otomatik olarak silinir veya anonimleştirilir.
+Hizmetlerimizi ne sıklıkta kullandığınızla ilgili bilgiler gibi bazı verileri, siz Google Hesabınızı silene kadar saklarız.
+Bazı veriler, meşru ticari veya yasal amaçlarla (ör. güvenlik, dolandırıcılık ve kötüye kullanımı önleme veya finansal kayıt tutma) gerektiğinde daha uzun süre saklanır.
+
+Verileri sildiğinizde, verilerinizin sunucularımızdan güvenle ve tamamen kaldırıldığından veya yalnızca anonim şekilde saklandığından emin olmak için bir silme işlemi uygularız. Hizmetlerimizin, bilgilerin yanlışlıkla veya kötü amaçla silinmesini engellediğinden emin olmaya çalışırız. Bu nedenle, siz bir şeyi sildikten sonra kopyaların etkin ve yedek sistemlerimizden silinmesi biraz zaman alabilir.
+
+Bilgilerinizi silmemizin ne kadar sürdüğü de dahil olmak üzere Google’ın veri saklama süreleri hakkında daha fazla bilgi edinebilirsiniz.
+
+DÜZENLEYİCİ KURUMLARLA İŞBİRLİĞİ VE UYUM
+
+Bu Gizlilik Politikası'nı düzenli olarak inceleriz ve bilgilerinizi bu politikaya uygun şekilde işlediğimizden emin oluruz.
+
+Veri aktarımları
+
+Dünyanın her yerinde sunucularımız bulunduğundan bilgileriniz, yaşadığınız ülkenin dışındaki sunucularda işleniyor olabilir. Veri koruma kanunları ülkeden ülkeye değişmekte, bazı kanunlar diğerlerinden daha fazla koruma sağlamaktadır. Bilgilerinizin nerede işlendiğine bakılmaksızın bu politikada açıklanan korumaları aynı şekilde uygularız. Ayrıca, verilerin aktarımıyla ilgili belirli yasal çerçevelere de uyarız.
+
+Yazılı resmi şikayetler aldığımızda şikayette bulunan kişiyle bağlantı kurarak yanıt veririz. Verilerinizin aktarılmasıyla ilgili olarak sizinle doğrudan çözemediğimiz tüm şikayetleri çözüme kavuşturmak için yerel veri koruma yetkilileri de dahil olmak üzere ilgili denetim yetkilileriyle birlikte çalışırız.
+
+BU POLİTİKA HAKKINDA
+Bu politika ne zaman geçerlidir?
+
+Bu Gizlilik Politikası Google LLC ve bağlı kuruluşları tarafından sunulan tüm hizmetler için geçerlidir. Bu hizmetlere YouTube, Android ve üçüncü taraf sitelerde sunulanlar (reklamcılık hizmetleri gibi) dahildir. Bu Gizlilik Politikası, bu Gizlilik Politikası'na dahil olmayıp ayrı bir gizlilik politikasına sahip olan hizmetler için geçerli değildir.
+
+Bu Gizlilik Politikası aşağıdakiler için geçerli değildir:
+
+Hizmetlerimize reklam veren başka şirketlerin ve kuruluşların bilgi uygulamaları
+Politikanın geçerli olduğu Google hizmetlerini içerebilen ürünler ya da sitelerin yanı sıra arama sonuçlarında size gösterilen veya hizmetlerimizden bağlantı verilen ürünler ya da siteler dahil olmak üzere diğer şirketler ve bireyler tarafından sunulan hizmetler
+Bu politikadaki değişiklikler
+
+Bu Gizlilik Politikası'nı zaman zaman değiştiririz. Açıkça izninizi almadan bu Gizlilik Politikası kapsamındaki haklarınızda kısıtlama yapmayız. Her zaman son değişikliklerin yayınlanma tarihini belirtiriz ve incelemeniz için arşivlenmiş sürümlere erişim hakkı tanırız. Değişiklikler önemliyse daha dikkat çekici bir bildirim sağlarız (belirli hizmetler için Gizlilik Politikası değişikliklerine dair e-posta bildirimi gibi).
+
+İLGİLİ GİZLİLİK UYGULAMALARI
+Belirli Google hizmetleri
+
+Aşağıdaki gizlilik bildirimleri bazı Google hizmetleri hakkında ek bilgi sağlar:
+
+Payments
+Fiber
+Gemini Uygulamaları
+Google Fi
+Google Workspace for Education
+Read Along
+YouTube Çocuk
+13 yaşın (veya ülkenizde geçerli olan yaş sınırının) altındaki çocuklar için Family Link üzerinden yönetilen Google Hesapları
+Çocuklar ve gençler için Family Link gizlilik kılavuzu
+Google Asistan'daki Çocuklara Yönelik Özelliklerden İşitsel Materyal ve Ses Toplama
+
+Google Workspace veya Google Cloud Platform kullanan bir kuruluşun üyesiyseniz bu hizmetlerin, kişisel bilgilerinizi nasıl toplayıp kullandığını Google Cloud Gizlilik Uyarısı'nda öğrenebilirsiniz.
+
+Diğer yararlı kaynaklar
+
+Aşağıdaki bağlantılarda, uygulamalarımız ve gizlilik ayarlarımız hakkında daha fazla bilgi edinebileceğiniz yararlı kaynaklar vurgulanmaktadır.
+
+Hesabınızı yönetmek için kullanabileceğiniz ayarların birçoğunu Google Hesabınızda bulabilirsiniz
+Gizlilik Kontrolü, Google Hesabınızla ilgili önemli gizlilik ayarları konusunda size rehberlik sağlar
+Google’ın güvenlik merkezi, yerleşik güvenlik, gizlilik kontrollerimiz ve ailenizin internet kullanımıyla ilgili temel kuralları ayarlamanıza yardımcı olacak araçlar hakkında daha fazla bilgi almanızı sağlar
+Google'ın Gençler İçin Gizlilik Kılavuzu, gizlilikle ilgili sıkça aldığımız bazı önemli sorulara yanıt verir
+Gizlilik ve Şartlar, bu Gizlilik Politikası ve Hizmet Şartlarımız hakkında daha fazla bağlam sağlar
+Teknolojiler şu konularda daha fazla bilgi sağlar:
+Google, çerezleri nasıl kullanır?
+Reklamcılık için kullanılan teknolojiler
+Google, hizmetlerimizi kullanan sitelerdeki veya uygulamalardaki bilgileri nasıl kullanır?
+GoogleGoogle HakkındaGizlilikŞartlarŞeffaflık Merkezi
+Türkçe
